@@ -7,7 +7,7 @@
 - **Email Address:** saavansavaliya702@gmail.com
 - **GitHub Username:** https://github.com/saavansavaliya702-debug
 - **Selected Website:** Vasant Valley School - https://www.vasantvalley.org/
-- **Live Demo Link:** [Your Vercel deployment link]
+- **Live Demo Link:** https://dettroin-int-savan-website-frontend.onrender.com
 
 ## Technologies Used
 
@@ -17,7 +17,6 @@
 - MongoDB
 - Mongoose
 - JavaScript
-- HTML5
 - CSS3
 - Vite
 
